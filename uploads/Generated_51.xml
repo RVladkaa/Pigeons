@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost/Trees.xsl"?>
+<Tree>
+ <Pigeon IdBand="214124" Name="sdgsdg" Sex="cock" Color="dsgsd" Owner="sdfsdf" Birthday="2024-01-20" ID="1" DescendantOf="0" PairedTo="" Additional=""/>
+ <Pigeon IdBand="235235" Name="sdgsdg" Sex="hen" Color="dsgsd" Owner="sdgsdg" Birthday="2024-02-03" ID="2" DescendantOf="" PairedTo="" Additional=""/>
+ <Pigeon IdBand="323523" Name="sdgdfgdf" Sex="cock" Color="erhgdfg" Owner="dfgdfg" Birthday="2024-01-28" ID="3" DescendantOf="1" PairedTo="2" Additional=""/>
+</Tree>
