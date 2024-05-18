@@ -5,7 +5,7 @@ resource "google_storage_bucket" "auto-expire" {
   force_destroy = true
   public_access_prevention = "enforced"
 }
-
+#
 resource "google_storage_bucket" "auto-expire2" {
   name          = "pigeon-cicd-bucket-2"
   location      = "US"
