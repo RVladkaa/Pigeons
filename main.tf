@@ -5,4 +5,3 @@ resource "google_storage_bucket" "auto-expire" {
   force_destroy = true
   public_access_prevention = "enforced"
 }
-#
